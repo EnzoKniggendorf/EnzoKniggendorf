@@ -1,3 +1,7 @@
+<img src="https://camo.githubusercontent.com/ec9617ae52d8877922ca44fd3c38f4adacfc15efd006e9cc7885812b9b2e4e94/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303043464646266865696768743d3132302673656374696f6e3d686561646572" alt="Imagem de topo" style="display: block; margin: 0 auto; width: 100%; max-width: 1200px;">
+
+## 👋 Olá, Sou Enzo Kniggendorf!
+
 ## 💻 Desenvolvedor Web
 
 Estudante do 5º semestre de Análise e Desenvolvimento de Sistemas na Universidade de Sorocaba, possuo conhecimentos sólidos em desenvolvimento web (HTML, CSS, JavaScript, ReactJS), programação (Python, PHP), Banco de Dados (MySQL) e inglês básico.
@@ -12,7 +16,7 @@ Busco oportunidades para aplicar minhas habilidades e contribuir ativamente em p
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,py,php,react" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,php,react,git,mysql,vscode" />
   </a>
 </p>
 
@@ -42,11 +46,13 @@ Busco oportunidades para aplicar minhas habilidades e contribuir ativamente em p
   </a>
 </p>
 
+<br>
+
 <h2 align="center">📊 Formações e Estatísticas do GitHub :)</h2>
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 30px; width: 100%; max-width: 1200px; margin: 0 auto;">
-  <!-- Tabela de Cursos -->
-  <table style="border-collapse: collapse;">
+<div style="display: flex; justify-content: space-between; align-items: flex-start; width: 100%; max-width: 1200px; margin: 0 auto;">
+  <!-- Tabela de Cursos (à Esquerda) -->
+  <table style="width: 48%; border-collapse: collapse;">
     <thead>
       <tr>
         <th>Curso</th>
@@ -73,13 +79,20 @@ Busco oportunidades para aplicar minhas habilidades e contribuir ativamente em p
     </tbody>
   </table>
 
-  <!-- Imagem de Top Linguagens -->
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoKniggendorf&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
-  </p>
+  <!-- Imagem de Top Linguagens (à Direita) -->
+  <div style="flex-shrink: 0; width: 48%; display: flex; justify-content: flex-end;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoKniggendorf&layout=compact&theme=tokyonight" alt="Top Linguagens" />
+  </div>
 </div>
 
+<br>
 
+<h2 align="center">🖥️ Sistemas Operacionais</h2>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu" />
+  </a>
+</p>
 
-
+<img src="https://camo.githubusercontent.com/d24dd7b5aa10b16cf8b8b25ccebff7fd6f6f6f210eb4e6337a28d4ed616a1607/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303043464646266865696768743d3132302673656374696f6e3d666f6f746572" alt="Imagem de topo" style="display: block; margin: 0 auto; width: 100%; max-width: 1200px;">
