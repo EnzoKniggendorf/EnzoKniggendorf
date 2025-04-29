@@ -71,7 +71,9 @@ Busco oportunidades para aplicar minhas habilidades e contribuir ativamente em p
   </tbody>
 </table>
 <p align="center">
-  <img src="https://camo.githubusercontent.com/5c0404408b85d5d49f56cb7fce39a58a1c350d32fe06418e616f5818516c6070/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6a616f6a6f676164657a266c61796f75743d636f6d70616374267468656d653d7261646963616c" alt="GitHub Stats" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzotoyamakniggendorf2018&layout=compact&theme=tokyonight" alt="Top Linguagens" />
 </p>
+
 
 
