@@ -72,7 +72,7 @@ Busco oportunidades para aplicar minhas habilidades e contribuir ativamente em p
 </table>
 <p align="center">
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzotoyamakniggendorf2018&layout=compact&theme=tokyonight" alt="Top Linguagens" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoKniggendorf&layout=compact&theme=tokyonight" alt="Top Linguagens" />
 </p>
 
 
