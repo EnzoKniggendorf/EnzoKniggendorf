@@ -44,36 +44,43 @@ Busco oportunidades para aplicar minhas habilidades e contribuir ativamente em p
 
 <h2 align="center">📊 Formações e Estatísticas do GitHub :)</h2>
 
-<table align="center">
-  <thead>
-    <tr>
-      <th>Curso</th>
-      <th>Plataforma</th>
-      <th>Status</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>HTML e CSS3</td>
-      <td>Curso em Vídeo</td>
-      <td>Em andamento</td>
-    </tr>
-    <tr>
-      <td>Algoritmo</td>
-      <td>Curso em Vídeo</td>
-      <td>Em andamento</td>
-    </tr>
-    <tr>
-      <td>Linux</td>
-      <td>Curso em Vídeo</td>
-      <td>Em andamento</td>
-    </tr>
-  </tbody>
-</table>
-<p align="center">
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoKniggendorf&layout=compact&theme=tokyonight" alt="Top Linguagens" />
-</p>
+<h2 align="center">📊 Formações e Estatísticas do GitHub :)</h2>
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 30px;">
+  <!-- Tabela de Cursos -->
+  <table align="center">
+    <thead>
+      <tr>
+        <th>Curso</th>
+        <th>Plataforma</th>
+        <th>Status</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>HTML e CSS3</td>
+        <td>Curso em Vídeo</td>
+        <td>Em andamento</td>
+      </tr>
+      <tr>
+        <td>Algoritmo</td>
+        <td>Curso em Vídeo</td>
+        <td>Em andamento</td>
+      </tr>
+      <tr>
+        <td>Linux</td>
+        <td>Curso em Vídeo</td>
+        <td>Em andamento</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <!-- Imagem de Top Linguagens -->
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoKniggendorf&layout=compact&theme=tokyonight" alt="Lingaugens mais usadas" />
+  </p>
+</div>
+
 
 
 
