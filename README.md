@@ -1,4 +1,4 @@
-##💻 Desenvolvedor Web</h2>
+##💻 Desenvolvedor Web
 
 Estudante do 5º semestre de Análise e Desenvolvimento de Sistemas na Universidade de Sorocaba, possuo conhecimentos sólidos em desenvolvimento web (HTML, CSS, JavaScript, ReactJS), programação (Python, PHP), Banco de Dados (MySQL) e inglês básico.
 
