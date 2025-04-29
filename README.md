@@ -41,3 +41,33 @@ Busco oportunidades para aplicar minhas habilidades e contribuir ativamente em p
     <img src="https://camo.githubusercontent.com/1263ae37f87a17205798aa93fa3f724bf2f53e9f82b42772e9b27f45bd85424e/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6d6573736167653d476d61696c266c6f676f3d676d61696c266c6162656c3d26636f6c6f723d303037414343266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d267374796c653d666f722d7468652d6261646765" alt="Gmail">
   </a>
 </p>
+
+<h2 align="center">📊 Formações e Estatísticas do GitHub :)</h2>
+
+<table align="center">
+  <thead>
+    <tr>
+      <th>Curso</th>
+      <th>Plataforma</th>
+      <th>Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>HTML e CSS</td>
+      <td>Alura</td>
+      <td>Concluído</td>
+    </tr>
+    <tr>
+      <td>JavaScript Básico</td>
+      <td>Udemy</td>
+      <td>Em andamento</td>
+    </tr>
+    <tr>
+      <td>Python para Iniciantes</td>
+      <td>Coursera</td>
+      <td>Concluído</td>
+    </tr>
+  </tbody>
+</table>
+
