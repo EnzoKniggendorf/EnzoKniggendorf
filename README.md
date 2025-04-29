@@ -54,19 +54,19 @@ Busco oportunidades para aplicar minhas habilidades e contribuir ativamente em p
   </thead>
   <tbody>
     <tr>
-      <td>HTML e CSS</td>
-      <td>Alura</td>
-      <td>Concluído</td>
-    </tr>
-    <tr>
-      <td>JavaScript Básico</td>
-      <td>Udemy</td>
+      <td>HTML e CSS3</td>
+      <td>Curso em Vídeo</td>
       <td>Em andamento</td>
     </tr>
     <tr>
-      <td>Python para Iniciantes</td>
-      <td>Coursera</td>
-      <td>Concluído</td>
+      <td>Algoritmo</td>
+      <td>Curso em Vídeo</td>
+      <td>Em andamento</td>
+    </tr>
+    <tr>
+      <td>Linux</td>
+      <td>Curso em Vídeo</td>
+      <td>Em andamento</td>
     </tr>
   </tbody>
 </table>
