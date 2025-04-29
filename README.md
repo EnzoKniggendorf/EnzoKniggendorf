@@ -44,7 +44,7 @@ Busco oportunidades para aplicar minhas habilidades e contribuir ativamente em p
 
 <h2 align="center">📊 Formações e Estatísticas do GitHub :)</h2>
 
-<div style="display: flex; justify-content: center; align-items: flex-start; gap: 30px;">
+<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 30px; width: 100%; max-width: 1200px; margin: 0 auto;">
   <!-- Tabela de Cursos -->
   <table style="border-collapse: collapse;">
     <thead>
@@ -78,6 +78,7 @@ Busco oportunidades para aplicar minhas habilidades e contribuir ativamente em p
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoKniggendorf&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
   </p>
 </div>
+
 
 
 
