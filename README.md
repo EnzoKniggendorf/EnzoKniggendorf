@@ -1,6 +1,7 @@
 <img src="https://camo.githubusercontent.com/ec9617ae52d8877922ca44fd3c38f4adacfc15efd006e9cc7885812b9b2e4e94/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303043464646266865696768743d3132302673656374696f6e3d686561646572" alt="Imagem de topo" style="display: block; margin: 0 auto; width: 100%; max-width: 1200px;">
 
-## 👋 Olá, Sou Enzo Kniggendorf!
+# [![👋 Olá, sou Enzo Kniggendorf!](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&width=435&lines=%F0%9F%91%8B+Ol%C3%A1%2C+sou+Enzo+Kniggendorf!)](https://git.io/typing-svg)
+
 
 ## 💻 Desenvolvedor Web
 
@@ -50,42 +51,46 @@ Busco oportunidades para aplicar minhas habilidades e contribuir ativamente em p
 
 <h2 align="center">📊 Formações e Estatísticas do GitHub :)</h2>
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start; width: 100%; max-width: 1200px; margin: 0 auto;">
-  <!-- Tabela de Cursos (à Esquerda) -->
-  <table style="width: 48%; border-collapse: collapse;">
-    <thead>
-      <tr>
-        <th>Curso</th>
-        <th>Plataforma</th>
-        <th>Status</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>HTML e CSS3</td>
-        <td>Curso em Vídeo</td>
-        <td>Em andamento</td>
-      </tr>
-      <tr>
-        <td>Algoritmo</td>
-        <td>Curso em Vídeo</td>
-        <td>Em andamento</td>
-      </tr>
-      <tr>
-        <td>Linux</td>
-        <td>Curso em Vídeo</td>
-        <td>Em andamento</td>
-      </tr>
-    </tbody>
-  </table>
+<div align="center">
 
-  <!-- Imagem de Top Linguagens (à Direita) -->
-  <div style="flex-shrink: 0; width: 48%; display: flex; justify-content: flex-end;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoKniggendorf&layout=compact&theme=tokyonight" alt="Top Linguagens" />
-  </div>
+### Cursos em Andamento
+
+<br> <!-- Espaço antes da tabela -->
+
+<table>
+  <tr>
+    <th>Curso</th>
+    <th>Plataforma</th>
+    <th>Status</th>
+  </tr>
+  <tr>
+    <td>HTML e CSS3</td>
+    <td>Curso em Vídeo</td>
+    <td>📚 Em andamento</td>
+  </tr>
+  <tr>
+    <td>Algoritmo</td>
+    <td>Curso em Vídeo</td>
+    <td>📚 Em andamento</td>
+  </tr>
+  <tr>
+    <td>Linux</td>
+    <td>Curso em Vídeo</td>
+    <td>📚 Em andamento</td>
+  </tr>
+</table>
+
+<br><br> <!-- Espaço duplo após a tabela -->
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoKniggendorf&layout=compact&theme=tokyonight" alt="Top Linguagens" style="display: block; margin: 2px auto;"> <!-- Margem aumentada -->
+
+<br><br> <!-- Espaço duplo entre as imagens -->
+
+<img src="https://github-readme-stats.vercel.app/api?username=EnzoKniggendorf&show_icons=true&theme=dark" alt="GitHub Stats" style="display: block; margin: 2px auto;"> <!-- Margem aumentada -->
+
+<br> <!-- Espaço final -->
+
 </div>
-
-<br>
 
 <h2 align="center">🖥️ Sistemas Operacionais</h2>
 
