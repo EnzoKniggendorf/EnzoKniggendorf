@@ -5,7 +5,7 @@
 
 ## 💻 Desenvolvedor Web
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, com experiência prática em desenvolvimento back-end e front-end, suporte técnico e manutenção de infraestrutura. Tenho domínio em PHP, JavaScript, Python, bancos de dados relacionais e NoSQL, além de ferramentas de gestão e versionamento. Meu objetivo é atuar em ambientes desafiadores, entregando soluções inovadoras que agreguem valor às equipes e organizações. Sou proativo, comprometido e focado no aprendizado contínuo para crescer na área de tecnologia.
+Desenvolvedor back-end com experiência em PHP e Python, além de vivência em manutenção e desenvolvimento de sistemas internos. Conhecimento em bancos de dados relacionais e NoSQL (PostgreSQL, MySQL, MongoDB) e em práticas de versionamento com Git. Atuação também em suporte técnico e infraestrutura de TI em ambientes Windows e Linux. Perfil proativo, organizado e orientado a resultados, com interesse em aplicar boas práticas de desenvolvimento e metodologias ágeis para entregar soluções eficientes.
 
 <br>
 
