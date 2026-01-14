@@ -13,7 +13,7 @@ Desenvolvedor back-end com experiência em PHP e Python, além de vivência em m
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,py,php,react,git,mysql,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,php,react,git,github,mysql,mongodb,vscode,docker,figma,bitbucket,discord,notion,npm,phpstorm" />
   </a>
 </p>
 
@@ -60,17 +60,17 @@ Desenvolvedor back-end com experiência em PHP e Python, além de vivência em m
     <th>Status</th>
   </tr>
   <tr>
-    <td>HTML e CSS3</td>
+    <td>Python com Inteligência Artificial</td>
     <td>Curso em Vídeo</td>
     <td>📚 Em andamento</td>
   </tr>
   <tr>
-    <td>Algoritmo</td>
+    <td>Java</td>
     <td>Curso em Vídeo</td>
     <td>📚 Em andamento</td>
   </tr>
   <tr>
-    <td>Linux</td>
+    <td>Linux Avançado</td>
     <td>Curso em Vídeo</td>
     <td>📚 Em andamento</td>
   </tr>
@@ -92,7 +92,7 @@ Desenvolvedor back-end com experiência em PHP e Python, além de vivência em m
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu" />
+    <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,arch,redhat" />
   </a>
 </p>
 
